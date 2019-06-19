@@ -1,8 +1,11 @@
 # Attend_Public
 <br>
 The Attend App was created to make taking attendance easier for students and teachers.
+<br>
 I built it with 2 goals in mind.
+<br>
 1. Ensure that the student is in class
+<br>
 2. Ensure that the student can only log in themeselves
 <br>
 - The 1st is guaranteed by constantly shuffling a login code. This means that you can only plug in the code fast enough IF you are in the classroom.
