@@ -8,10 +8,14 @@ I built it with 2 goals in mind.
 <br>
 2. Ensure that the student can only log in themeselves
 <br>
+<br>
 - The 1st is guaranteed by constantly shuffling a login code. This means that you can only plug in the code fast enough IF you are in the classroom.
+<br>
 - The 2nd is guaranteed by giving the device a permanent unique identifier.
 <br>
+<br>
 <a href="http://quick-attend.herokuapp.com">Live Demo</a>
+<br>
 <br>
 Home Page To Teacher And Student Sides Of Attend
 <br>
