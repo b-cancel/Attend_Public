@@ -13,39 +13,19 @@ I built it with 2 goals in mind.
 <br>
 - The 2nd is guaranteed by giving the device a permanent unique identifier.
 <br>
-<br>
-<a href="http://quick-attend.herokuapp.com">Live Demo</a>
-<br>
-<br>
-Home Page To Teacher And Student Sides Of Attend
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1PHBd5Hu2DvzfDagg08PrnOqiR8_VryFX"/>
-<br>
-Screenshots Of Teacher Side Of Attend (typing name and tapping Enter)
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1BepvungF6tmx1B9UjWdzIGjNRKMbQTv7"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1bTOzEUuco84GY3Mad0tjuY_oGcikoIJm"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1TTAk2XFR7hnD7CtJQLRetqLt_Zi_fSxJ"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1Dw0_YbruuEzpt25xDznxNjpe7TKMcBqC"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1FG-XNeqSg_XpE55-5ICeUevohkH3BnrT"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1GHKEgHE5bdj-OGrVrf3E0bWsyc0WfBDb"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1eSf9vyhpxl2CWH7Tc2sOty9RcHzadfnQ"/>
-<br>
-Screenshots Of Student Side Of Attend (clicking log in as student)
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1WBVpcISTjQ9MCFfvHvMkcS0verMOBXai"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1BHTaGfmWP4Xby-EtWG2l6yTLB4ZHDd_G"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1Eh8SktAUMEt3Hxb-v1Ee7NT6MZWM5sNx"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1AyIFw2DliyCW5VyHXnxN4C0uvPyMT3fk"/>
-<br>
-<img src="https://drive.google.com/uc?export=download&id=1KsVt_Ly5ST634LrBqWs3zlShF00f5cwT"/>
- 
+
+<p float="left">
+<img src="https://imgur.com/RC8XpUP.jpg"/>
+<img src="https://imgur.com/RYPOlzG.jpg"/>
+<img src="https://imgur.com/ptcQTII.jpg"/>
+<img src="https://imgur.com/0qlOAWd.jpg"/>
+<img src="https://imgur.com/bGpIQSd.jpg"/>
+<img src="https://imgur.com/P36SrPo.jpg"/>
+<img src="https://imgur.com/blI3yI0.jpg"/>
+<img src="https://imgur.com/eAP5w5P.jpg"/>
+<img src="https://imgur.com/vvpwpdx.jpg"/>
+<img src="https://imgur.com/3n0sXee.jpg"/>
+<img src="https://imgur.com/S05j9z2.jpg"/>
+<img src="https://imgur.com/IlBWrEr.jpg"/>
+<img src="https://imgur.com/JEHgH2R.jpg"/>
+</p>
