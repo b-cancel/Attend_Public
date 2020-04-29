@@ -13,7 +13,7 @@ I built it with 2 goals in mind.
 <br>
 - The 2nd is guaranteed by giving the device a permanent unique identifier.
 <br>
-
+<br>
 <p float="left">
 <img src="https://imgur.com/RC8XpUP.jpg"/>
 <img src="https://imgur.com/RYPOlzG.jpg"/>
